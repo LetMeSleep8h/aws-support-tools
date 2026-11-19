@@ -1,6 +1,6 @@
 # Assign Static Private IP to Master node #
 
-This is a Python script that can be used as a bootstrap action or as an EMR step to attach a static private IP from the CIDR range of your subnet to the master node of the cluster.
+`assign_private_ip.py` requires Python 3. It is a script that can be used as a bootstrap action or as an EMR step to attach a static private IP from the CIDR range of your subnet to the master node of the cluster.
 
 What does this script do:
 
